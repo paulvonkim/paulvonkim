@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paulvonkim
 - 👀 I’m interested in Design and Coding
 - 🌱 I’m currently learning Webdevelopment
-- 💞️ I’m looking to collaborate on Fashion related developments
+- 💞️ I’m looking to collaborate on projects that helps people-
 - 📫 Your can reach me on IG:@paulkim.designs
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Not sure
