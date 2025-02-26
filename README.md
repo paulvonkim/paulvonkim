@@ -12,7 +12,6 @@
 
 - **index.html**: The main HTML document for the GitHub page.
 - **css/styles.css**: Custom styles for the page, focusing on a pink color scheme.
-- **css/magicui.css**: Styles from the MagicUI framework for enhanced UI components.
 - **js/main.js**: JavaScript for interactive features on the page.
 - **assets/profile-picture.jpg**: My profile picture.
 
