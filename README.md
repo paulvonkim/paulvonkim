@@ -1,6 +1,12 @@
 # My Portfolio
 
-This is a simple GitHub page showcasing my work as a generalist product designer. The page includes my profile picture, a brief introduction, and links to my various profiles.
+👋 Hi, I’m @paulvonkim
+👀 I’m interested in Design and Web Development
+🌱 I’m currently learning Web Development at WBS Coding School
+💻 I have hands-on experience with HTML, CSS, JavaScript, and React
+📈 I've used Git and GitHub for collaborative team projects
+💞️ I’m looking to collaborate on projects that combine design and development to create impactful solutions
+📫 Your can reach me on IG:@paulkim.designs
 
 ## Project Structure
 
@@ -15,11 +21,13 @@ This is a simple GitHub page showcasing my work as a generalist product designer
 To set up this project locally, follow these steps:
 
 1. Clone the repository:
+
    ```
    git clone <repository-url>
    ```
 
 2. Navigate to the project directory:
+
    ```
    cd my-portfolio
    ```
