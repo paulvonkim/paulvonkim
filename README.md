@@ -1,9 +1,17 @@
-# My Portfolio
+# Paul Kim | Product Designer & Developer
 
-👋 Hi, I’m @paulvonkim
-👀 I’m interested in Design and Web Development
-🌱 I’m currently learning Web Development at WBS Coding School
-💻 I have hands-on experience with HTML, CSS, JavaScript, and React
-📈 I've used Git and GitHub for collaborative team projects
-💞️ I’m looking to collaborate on projects that combine design and development to create impactful solutions
-📫 Your can reach me on IG:@paulkim.designs
+A multidisciplinary product designer with a fashion background, bridging design and technology to create compelling digital solutions.
+
+## Technical Expertise
+
+- **Languages & Frameworks**: TypeScript, JavaScript, React, Next.js
+- **Design & UI**: Shadcn/UI, Tailwind CSS
+- **Tools**: Git, GitHub
+
+## Current Focus
+
+Exploring data visualization and continuously expanding my technical skills at the intersection of design and development.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/paulkimdesigns)
